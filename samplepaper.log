@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.12)  18 FEB 2021 10:35
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.12)  23 FEB 2021 11:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -218,23 +218,23 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 ]
-Invalid UTF-8 byte or sequence at line 92 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 92 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 92 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 92 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 92 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 92 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 92 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 90 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 90 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 90 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 90 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 90 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 90 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 90 replaced by U+FFFD.
 File: fig1.eps Graphic file (type eps)
 <fig1.eps>
- [2] (./samplepaper.aux) ) 
+ [2] [3] (./samplepaper.aux) ) 
 Here is how much of TeX's memory you used:
  1297 strings out of 479418
  19064 string characters out of 5888104
- 269042 words of memory out of 5000000
+ 271042 words of memory out of 5000000
  18825 multiletter control sequences out of 15000+600000
  537934 words of font info for 54 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 31i,8n,25p,309b,254s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 31i,8n,25p,913b,292s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on samplepaper.pdf (2 pages).
+Output written on samplepaper.pdf (3 pages).
